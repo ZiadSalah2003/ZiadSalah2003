@@ -5,27 +5,36 @@
 - 🌱 Eager to expand knowledge and skills
 - 📫 Feel free to contact me anytime!
 
-## Profiles:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://www.facebook.com/ziad.salah.7106/](https://www.facebook.com/profile.php?id=100010583643964)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziadsalah2003/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ziadsalah2)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=#FFBF66&style=flat-square)](https://leetcode.com/ziadsalah2003/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-000000?logo=codeforces&logoColor=#1F8ACB&style=flat-square)](https://codeforces.com/profile/ziadsalah2003)
 
-## Tech Stack:
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-015482?logo=c%2B%2B&logoColor=white&style=flat-square)](https://en.cppreference.com/w/)
-[![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white&style=flat-square)](https://www.sqlite.org/index.html)
-[![C#](https://img.shields.io/badge/CSharp-512BD4?logo=csharp&logoColor=white&style=flat-square)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/)
+![me](https://wakatime.com/share/@508275a6-d589-434a-bd31-ca2aefcb9e81/21500bcb-4695-44c3-840e-3b116e55e5af.svg)
 
-## Tools:
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white&style=flat-square)](https://www.openai.com/chatgpt)
-[![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white&style=flat-square)](https://www.jetbrains.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/)
 
-## GitHub Stats:
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiadSalah2003&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/ZiadSalah2003) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSalah2003&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/ZiadSalah2003) |
-| ------------------------ | ------------------ |
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZiadSalah2003&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=Hel4l&icon=5&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadSalah2003&theme=onedark&hide_border=false" alt="GitHub Streak">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSalah2003&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ZiadSalah2003&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=ZiadSalah2003&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
