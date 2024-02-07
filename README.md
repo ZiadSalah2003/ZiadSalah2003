@@ -25,7 +25,7 @@
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/)
 
 ## GitHub Stats:
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hel4l&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Hel4l) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hel4l&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/Hel4l) |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiadSalah2003&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/ZiadSalah2003) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSalah2003&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/ZiadSalah2003) |
 | ------------------------ | ------------------ |
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=Hel4l&icon=5&color=12)](https://visitcount.itsvg.in)
