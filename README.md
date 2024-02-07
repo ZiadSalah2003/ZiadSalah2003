@@ -1,1 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ziad Salah</h1> <h3 align="center">CS Student at Faculty of Computers and Artificial Intelligence</h3> - 🔭 I’m currently working on **Exploring backend development with a focus on .NET** - 🌱 I’m currently learning **ASP.NET** - ⚡ All of my projects are available at ([ZiadSalah2003](https://github.com/ZiadSalah2003)) - 📫 How to reach me **ziadsalah2003@gmail.com** <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://fb.com/ziad salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[ziad salah](https://www.facebook.com/ziad.salah.7106/)" height="30" width="40" /></a> <a href="https://discord.gg/Ziad Salah#7985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ziad Salah#7985" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## About Me:
+- 🧑‍💻 CS Student at Faculty of Computers and Artificial Intelligence
+- 🔭 Exploring backend development with a focus on .NET
+- 🚀 Coding enthusiast, passionate about problem-solving.
+- 🌱 Eager to expand knowledge and skills
+- 📫 Feel free to contact me anytime!
+
+## Profiles:
+[![LinkTree](https://img.shields.io/badge/Linktree-254F1A?logo=linktree&logoColor=white&style=flat-square)](https://linktr.ee/hel4l)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=#FFBF66&style=flat-square)](https://leetcode.com/hel4l)
+[![Codeforces](https://img.shields.io/badge/Codeforces-000000?logo=codeforces&logoColor=#1F8ACB&style=flat-square)](https://codeforces.com/profile/Yuji)
+
+## Tech Stack:
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-015482?logo=c%2B%2B&logoColor=white&style=flat-square)](https://en.cppreference.com/w/)
+[![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white&style=flat-square)](https://www.sqlite.org/index.html)
+[![C#](https://img.shields.io/badge/CSharp-512BD4?logo=csharp&logoColor=white&style=flat-square)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/)
+
+## Tools:
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white&style=flat-square)](https://www.openai.com/chatgpt)
+[![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white&style=flat-square)](https://www.jetbrains.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/)
+
+## GitHub Stats:
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hel4l&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Hel4l) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hel4l&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/Hel4l) |
+| ------------------------ | ------------------ |
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=Hel4l&icon=5&color=12)](https://visitcount.itsvg.in)
