@@ -6,9 +6,8 @@
 - 📫 Feel free to contact me anytime!
 
 ## Profiles:
-[![LinkTree](https://img.shields.io/badge/Linktree-254F1A?logo=linktree&logoColor=white&style=flat-square)](https://linktr.ee/hel4l)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=#FFBF66&style=flat-square)](https://leetcode.com/hel4l)
-[![Codeforces](https://img.shields.io/badge/Codeforces-000000?logo=codeforces&logoColor=#1F8ACB&style=flat-square)](https://codeforces.com/profile/Yuji)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=#FFBF66&style=flat-square)](https://leetcode.com/ziadsalah2003/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-000000?logo=codeforces&logoColor=#1F8ACB&style=flat-square)](https://codeforces.com/profile/ziadsalah2003)
 
 ## Tech Stack:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
