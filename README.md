@@ -1,9 +1,19 @@
-## About Me:
-- 🧑‍💻 CS Student at Faculty of Computers and Artificial Intelligence
-- 🔭 Exploring backend development with a focus on .NET
-- 🚀 Coding enthusiast, passionate about problem-solving.
-- 🌱 Eager to expand knowledge and skills
-- 📫 Feel free to contact me anytime!
+![Header](banner.png)
+
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<p>
+Aspiring Computer Science student and competitive programmer with a passion for continuous learning and exploration of diverse technologies. Eager to contribute as a valuable team member engaged in a spectrum of projects featuring cutting-edge technologies. Known for excellent problem-solving and analytical abilities, complemented by strong communication skills. Seeking an internship opportunity to apply and enhance technical expertise while actively contributing to innovative software development projects.
+<br>
+</p>
+<br>
+<!-- ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> Top Repositories
+<a teget="_black" href=""></a>
+ -->
+<hr>
+<br>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ziad.salah.7106/)
