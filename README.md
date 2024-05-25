@@ -23,7 +23,6 @@ Known for excellent problem-solving and analytical abilities, complemented by st
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=#FFBF66&style=flat-square)](https://leetcode.com/ziadsalah2003/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-000000?logo=codeforces&logoColor=#1F8ACB&style=flat-square)](https://codeforces.com/profile/ziadsalah2003)
 
-![me](https://wakatime.com/share/@508275a6-d589-434a-bd31-ca2aefcb9e81/21500bcb-4695-44c3-840e-3b116e55e5af.svg)
 
 
 # 📊 GitHub Stats:
