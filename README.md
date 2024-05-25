@@ -41,12 +41,4 @@ Known for excellent problem-solving and analytical abilities, complemented by st
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZiadSalah2003&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</div>
-
----
-[![](https://visitcount.itsvg.in/api?id=ZiadSalah2003&icon=0&color=1)](https://visitcount.itsvg.in)
-
 
